@@ -1,3 +1,12 @@
+# Data
+feedback-prize-english-language-learning.zip
+feedback-prize-english-language-learning/
+
+
+# Quarto
+/.quarto/
+/_site/
+
 # Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,jetbrains+all,visualstudiocode,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks,jetbrains+all,visualstudiocode,macos
 
